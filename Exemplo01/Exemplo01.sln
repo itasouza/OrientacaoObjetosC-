@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga", "Sobrecarga\So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{56140413-26FF-48D7-BF46-E0EBF2336FDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoContrutores01", "ProjetoContrutores\ProjetoContrutores01.csproj", "{1BD0FA86-0A29-4CCC-BE6B-FC1C30C36335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{56140413-26FF-48D7-BF46-E0EBF2336FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56140413-26FF-48D7-BF46-E0EBF2336FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56140413-26FF-48D7-BF46-E0EBF2336FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD0FA86-0A29-4CCC-BE6B-FC1C30C36335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD0FA86-0A29-4CCC-BE6B-FC1C30C36335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD0FA86-0A29-4CCC-BE6B-FC1C30C36335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD0FA86-0A29-4CCC-BE6B-FC1C30C36335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
