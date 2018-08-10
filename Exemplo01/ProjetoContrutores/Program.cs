@@ -26,8 +26,8 @@ informado o valor de depósito inicial. Em seguida, realizar um depósito e depo
 mostrando os dados da conta após cada operação. 
  * 
  * 
- * Tipos referência = classe
- * tipos  valor = struct
+ * Tipos referência = classe , aceita valor null, y = x , y passa a apontar para onde x aponta
+ * tipos  valor = struct , não aceita valor null , y = x, y recebe uma cópia de x
  *      */
 
 namespace ProjetoContrutores
